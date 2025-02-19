@@ -5,7 +5,7 @@ frontend :
 
 npx create-react-app frontend \
 cd frontend \
-npm install axios react-router-dom \
+npm install axios react-router-dom 
 
 starting : 
 cd backend  \
