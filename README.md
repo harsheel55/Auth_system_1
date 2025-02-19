@@ -1,6 +1,6 @@
 # Auth_System
 
-frontend :
+**frontend :**
 
 
 npx create-react-app frontend \
@@ -13,7 +13,7 @@ node index.js
 
 
 
-backend : 
+**backend : **
 cd backend \
 node index.js 
 
