@@ -9,14 +9,14 @@ npm install axios react-router-dom \
 
 starting : \
 cd backend  \
-node index.js \
+node index.js 
 
 
 
 backend : \
 cd backend \
-node index.js \
+node index.js 
 
 starting : \ 
 cd frontend \
-npm start \
+npm start 
