@@ -13,7 +13,7 @@ node index.js
 
 
 
-**backend : **
+**backend :**
 cd backend \
 node index.js 
 
