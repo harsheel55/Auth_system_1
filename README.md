@@ -7,16 +7,16 @@ npx create-react-app frontend \
 cd frontend \
 npm install axios react-router-dom \
 
-starting : \
+starting : 
 cd backend  \
 node index.js 
 
 
 
-backend : \
+backend : 
 cd backend \
 node index.js 
 
-starting : \ 
+starting : 
 cd frontend \
 npm start 
